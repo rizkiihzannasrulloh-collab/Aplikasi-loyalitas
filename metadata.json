@@ -1,0 +1,8 @@
+{
+  "name": "Nasi Cokot",
+  "description": "Kartu loyalitas digital Beli 8 Gratis 1 untuk Nasi Cokot dengan QR Code, scan kasir, dan pelacak stempel pelanggan.",
+  "requestFramePermissions": [
+    "android.permission.CAMERA"
+  ],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
